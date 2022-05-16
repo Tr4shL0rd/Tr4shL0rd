@@ -14,7 +14,7 @@
 
 ### currently working on
 
--   a [YouTube Song Downloader](https://github.com/Tr4shL0rd/ytDownloader) that lets you download songs from YouTube and save them to your computer(Also possible to send them to your phone via email)
+-   a [Collection of pokemon scripts](https://github.com/Tr4shL0rd/pokemonScripts) 
 
 ### Things I like to geek out on🔭
 
