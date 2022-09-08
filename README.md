@@ -14,7 +14,7 @@
 
 ### currently working on
 
--   a [Collection of pokemon scripts](https://github.com/Tr4shL0rd/pokemonScripts) 
+-   [Big aktiedysten stonks](https://github.com/Tr4shL0rd/aktiedystenStonks) 
 
 ### Things I like to geek out on🔭
 
