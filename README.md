@@ -24,7 +24,7 @@
 
 ### Currently Learning📚
 
--   [Go](https://golang.org/doc/install)
+-   [Go](https://go.dev/)
 -   [Javascript](https://www.javascript.com/)
 
 ---
