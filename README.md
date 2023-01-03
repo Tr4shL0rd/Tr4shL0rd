@@ -25,6 +25,6 @@
 ### Currently Learning📚
 
 -   [Go](https://go.dev/)
--   [Javascript](https://www.javascript.com/)
+-   [Typescript](https://www.typescriptlang.org/)
 
 ---
