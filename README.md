@@ -7,7 +7,7 @@
 
 ### Hello There! 👋 Im Tr4shL0rd! 🗑️
 
--   i'm an 18 year old python developer from Denmark 🇩🇰
+-   i'm an 19 year old python developer from Denmark 🇩🇰
 -   I've been messing around with programming since i was about 10 years old, but began taking it more serious when i was about 13-14 years old.
 
 ---
