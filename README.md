@@ -12,7 +12,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tr4shL0rd&layout=compact&theme=github_dark&hide_border=true&title_color=6495ED&langs_count=6)](https://github.com/Tr4shL0rd?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tr4shL0rd&exclude_repo=spaceengineers-thrust-calc,peregrine-lang.github.io ,p5)](https://github.com/Tr4shL0rd?tab=repositories)
 
 ### currently working on
 
