@@ -28,3 +28,9 @@
 -   [Typescript](https://www.typescriptlang.org/)
 
 ---
+
+### Things i've recently listent to
+
+[![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Tr4shL0rd&count=4)](https://www.last.fm/user/Tr4shL0rd)
+
+---
