@@ -12,6 +12,8 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CeniusM&layout=compact&theme=github_dark&hide_border=true&title_color=6495ED&langs_count=6)](https://github.com/CeniusM?tab=repositories)
+
 ### currently working on
 
 -   [Big aktiedysten stonks](https://github.com/Tr4shL0rd/aktiedystenStonks) 
