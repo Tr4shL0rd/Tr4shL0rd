@@ -11,7 +11,7 @@
 -   I've been messing around with programming since i was about 10 years old, but began taking it more serious when i was about 13 years old.
 
 ---
-[![Tr4shL0rd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tr4shL0rd&theme=dark&text_color=d104d1)](https://github.com/Tr4shL0rd)[![Tr4shL0rd's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tr4shL0rd&exclude_repo=spaceengineers-thrust-calc,peregrine-lang.github.io,p5,linkHub,vulntest&theme=dark&langs_count=6&hide=html,css&layout=compact&text_color=d104d1)](https://github.com/Tr4shL0rd?tab=repositories)
+[![Tr4shL0rd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tr4shL0rd&theme=dark&text_color=d104d1&show_icons=true)](https://github.com/Tr4shL0rd)[![Tr4shL0rd's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tr4shL0rd&exclude_repo=spaceengineers-thrust-calc,peregrine-lang.github.io,p5,linkHub,vulntest&theme=dark&langs_count=6&hide=html,css&layout=compact&text_color=d104d1)](https://github.com/Tr4shL0rd?tab=repositories)
 <!--excluding a few website repos because javascript & PHP is over-represented in those repos compared to my actual main language (Python) -->
 
 
