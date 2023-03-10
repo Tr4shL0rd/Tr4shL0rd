@@ -12,7 +12,8 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tr4shL0rd&exclude_repo=spaceengineers-thrust-calc,peregrine-lang.github.io ,p5)](https://github.com/Tr4shL0rd?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tr4shL0rd&exclude_repo=spaceengineers-thrust-calc,peregrine-lang.github.io,p5,linkHub,vulntest&theme=dark)](https://github.com/Tr4shL0rd?tab=repositories)
+<!--excluding a few website repos because javascript & PHP is over-represented in those repos compared to my actual main language (Python) -->
 
 ### currently working on
 
