@@ -13,7 +13,7 @@
 
 ### currently working on💻
 
--   [Image manipulation](https://github.com/Tr4shL0rd/image_breaker) 
+-   [Silly Site](https://github.com/Tr4shL0rd/silly_site) 
 
 ### Things I like to geek out on🔭
 
@@ -29,7 +29,7 @@
 
 ---
 
-### Things i've recently listent to
+### Stuff i've recently listent to
 
 [![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Tr4shL0rd&count=4)](https://www.last.fm/user/Tr4shL0rd)
 
